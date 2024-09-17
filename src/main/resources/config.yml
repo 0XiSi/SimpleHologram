@@ -1,0 +1,7 @@
+holograms:
+  myHolo:
+    location: world,100,65,200,0,0
+    lines:
+      - "This is the top line"
+      - "This is the middle"
+      - "This is the bottom"

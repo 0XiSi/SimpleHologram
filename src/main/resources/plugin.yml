@@ -1,0 +1,11 @@
+name: SimpleHologram
+version: '1.0-SNAPSHOT'
+main: org.oxisi.simpleHologram.SimpleHologram
+api-version: '1.21'
+commands:
+  createholo:
+    description: Creates a hologram
+  removeholo:
+    description: Removes a hologram
+  reloadholo:
+    description: Reloads all holograms
