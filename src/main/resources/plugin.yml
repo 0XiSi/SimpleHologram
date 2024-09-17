@@ -5,7 +5,10 @@ api-version: '1.21'
 commands:
   createholo:
     description: Creates a hologram
+    usage: "/createholo <id> <text>"
   removeholo:
     description: Removes a hologram
+    usage: "/removeholo <id>"
   reloadholo:
     description: Reloads all holograms
+    usage: "/reloadholo"
